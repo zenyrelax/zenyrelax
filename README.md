@@ -13,7 +13,7 @@ class Attributes(zenyrelax):
 
         :return: Discord channel link
         """
-        discord = "https://discord.gg/ahlak"
+        discord = "https://discord.gg/cancode"
         return discord
 
     @staticmethod
