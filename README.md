@@ -25,33 +25,6 @@ class Attributes(zenyrelax):
         """
         discord = "zenyrelax"
         return discord
-
-    @staticmethod
-    def life() -> tuple:
-        """
-        Returns information about language proficiency and age.
-
-        :return: Tuple containing languages and age
-        """
-        langs = ['Turkish', 'English']
-        age = 19
-        return langs, age
-
-    @staticmethod
-    def coding() -> tuple:
-        """
-        Returns information about coding expertise, specialties, and development environment.
-
-        :return: Tuple containing languages, specialties, and development environment
-        """
-        langs = {
-            'expert': ['python'],
-            'intermediate': ['js', 'c#'],
-            'learning': ['golang']
-        }
-        specialities = ['web/app reverse engineering', 'fullstack']
-        environnement = ['vscode']
-        return langs, specialities, environnement
 ```
 <h2 align="center">Skills </h2>
 
