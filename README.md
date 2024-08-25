@@ -30,7 +30,7 @@ class Attributes(zenyrelax):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,vscode,js,css,html,lua" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,js,html,lua" />
   </a>
 </p>
 
